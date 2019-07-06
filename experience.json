@@ -1,0 +1,35 @@
+{
+    "profile": {
+      "photo": "https://www.dropbox.com/s/7ftr8zrtefii9uy/IMG_20190619_100206.jpg?raw=1",
+      "name" : "Moisés",
+      "last_name" : "Garduño Reyes",
+      "cellphone" : "+5219512780863",
+      "birthday" : "24/09/1992",
+      "email": "moises.garduno.r@gmail.com"
+    },
+    "experience" : [{
+       "company" : "CFE Suministrador de servicios básicos",
+       "position": "Desarrollador móvil Xamarin (iOS & Android)",
+       "description": "Desarrollar aplicaciones de acuerdo a los requerimientos de la empresa haciendo uso de Xamarin."
+     },{
+       "company" : "Blueicon México",
+       "position": "Desarrollador móvil (iOS & Android)",
+       "description": "Desarrollar aplicaciones nativas de acuerdo a los requerimientos de la empresa haciendo uso de lenguajes como swift y kotlin."
+     },{
+       "company" : "Check-Eat México",
+       "position": "Desarrollador móvil (iOS & Android)",
+       "description": "Desarrollar aplicaciones nativas de acuerdo a los requerimientos de la empresa haciendo uso de lenguajes como swift y kotlin."
+     }],
+    "archs" : [
+      "MVP", "CLEAN", "MVVM", "MVC", "Singleton", "VIPER"
+    ], 
+    "libs" : [
+      "RxJava", "Dagger 2", "Koin", "Retrofit 2", "Picasso", "Alamofire", "CoreData", "Room", "Realm", "RxSwift", "Firebase"
+    ], 
+    "personal_interests" : [
+      "Salir a correr",
+      "Practicar crossfit",
+      "Impartir talleres",
+      "Viajar"
+    ]
+  }
